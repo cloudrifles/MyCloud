@@ -1,0 +1,7 @@
+/Users/cr/AndroidStudioProjects/MyCloud/Application/build/intermediates/classes/debug
+/Users/cr/AndroidStudioProjects/MyCloud/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-188cec4272fd7217e10481582215c31594e22200.jar
+/Users/cr/AndroidStudioProjects/MyCloud/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-f897f0082e6f9d3bd8abf9e82efac6874fabafd1.jar
+/Users/cr/AndroidStudioProjects/MyCloud/Application/build/intermediates/pre-dexed/debug/classes-194fc90aa893991b3939fc5da4a09f4fbe1c975f.jar
+/Users/cr/AndroidStudioProjects/MyCloud/Application/build/intermediates/pre-dexed/debug/classes-c10e734295c7fddd3fa60029fae1a8a41be6b966.jar
+/Users/cr/AndroidStudioProjects/MyCloud/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-bd63fb91fbd28fc9b42106f3f9f32c78eebc43ca.jar
+/Users/cr/AndroidStudioProjects/MyCloud/Application/build/intermediates/pre-dexed/debug/classes-f5cd77aeda1a80e4755b1fe51f571621d4d06e66.jar
